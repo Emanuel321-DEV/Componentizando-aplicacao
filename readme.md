@@ -39,7 +39,7 @@ Levando em conta que o problema era que boa parte do código estava no arquivo A
 O site continua com mesmo layout, a única coisa alterada foi o código.
 <br>
 
-![imagem-site](./public/images/site.PNG)
+![imagem-site](./public/images/site.png)
 
 
 ## [Video demostrativo](https://youtu.be/kcuSfbSJ1kY)
